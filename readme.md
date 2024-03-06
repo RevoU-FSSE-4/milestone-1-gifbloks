@@ -98,3 +98,4 @@ how to configure your domain to netlify
    ![5](/asset/4.4.png)
 
 my website ([gifbloks.site](https://gifbloks.site/))
+my netlify ([netlify](yoshua-milestone1.netlify.app))
