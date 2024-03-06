@@ -99,3 +99,4 @@ how to configure your domain to netlify
 
 my website ([gifbloks.site](https://gifbloks.site/))
 my netlify ([netlify](yoshua-milestone1.netlify.app))
+my github ([github](https://github.com/RevoU-FSSE-4/milestone-1-gifbloks))
