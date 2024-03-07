@@ -196,3 +196,8 @@ a{
     background-size: cover;
     background-clip: content-box;
   }
+
+  .copyright{
+    width: 1em;
+    height: 1em;
+  }
